@@ -60,7 +60,7 @@ And now, back to Fizz Buzz!
 Fizz Buzz is a game where people sit in a circle. Counting from 1 and going around the circle,
 people say one of four things for a number `i`: `Fizz`, `Buzz`, `Fizz Buzz`, or `i`.
 
-- [ ] Try a short game of Fizz Buzz with a small group of people around you!
+- [X ] Try a short game of Fizz Buzz with a small group of people around you!
 
 Formally as a coding task, let `i` be a positive integer and output the following:
 
